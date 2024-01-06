@@ -4,13 +4,23 @@ Hace uso de ncurses y herramientas básicas como tar, vi, nano y demas programas
 
 <h2>¿Qué funciones tiene?</h2>
 - Navegar entre carpetas y archivos
+
 - Renomrar
+
 - Editar archivos
+
 - Comprimir y descomprimr
+
 - Copiar
+
 - Mover
+
 - Eliminar
+
 - Empaquetar
+
 - Cambiar permisos
+
 - Cambiar grupos
+
 - Agregar prefijos a todos los elementos de una carpeta
