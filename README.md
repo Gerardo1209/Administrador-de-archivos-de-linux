@@ -3,6 +3,7 @@ Este programa ayuda al manejo de archivos y sus componentes dentro de una termin
 Hace uso de ncurses y herramientas básicas como tar, vi, nano y demas programas que vienen instalados usualmente en cualquier distribución linux.
 
 <h2>¿Qué funciones tiene?</h2>
+
 - Navegar entre carpetas y archivos
 
 - Renomrar
